@@ -1,2 +1,3 @@
 # RayTracing
-![image](https://github.com/nofushanquan/RayTracing/image/1.jpg)
+![image](https://github.com/nofushanquan/RayTracing/blob/master/image/1.png)
+![image](https://github.com/nofushanquan/RayTracing/blob/master/image/2.png)
